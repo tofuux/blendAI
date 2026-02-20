@@ -10,13 +10,16 @@ BlendAI leverages the google-generativeai library. To install it within Blender'
 
 Follow the instructions in this tutorial to install the Python Module Installer for Blender.
 Use the Python Module Installer to install the google-generativeai package.
+
 2. Configure Your API Key
 Obtain your Gemini API key from AI Studio.
 Open the BlendAI Python script and replace the placeholder with your actual API key, ensuring it remains within the quotes.
+
 3. Install BlendAI
 Open Blender.
 Navigate to Edit > Preferences > Add-ons > Install.
 Locate the BlendAI Python script on your computer and click "Install"
+
 4. Enable BlendAI
 In the Add-ons tab, find "BlendAI" and enable it by checking the box next to its name.
 
