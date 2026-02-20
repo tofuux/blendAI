@@ -1,10 +1,13 @@
 # BlendAI: Unleash Your Imagination with AI-Powered 3D Modeling
 BlendAI is a Blender add-on that empowers you to create 3D models simply by describing them. No more tedious manual manipulation, just tell BlendAI what you envision, and let the power of AI bring it to life.
 
-What's New in Version 1.3
+# What's New in Version 1.3
+
 Major Bug Fixes: Improved code execution and stability.
 Log Files: Implemented logging to track previous inputs, allowing for better contextual awareness and debugging.
-Getting Started
+
+# Getting Started
+
 1. Install the Required Module
 BlendAI leverages the google-generativeai library. To install it within Blender's Python environment:
 
@@ -26,12 +29,14 @@ In the Add-ons tab, find "BlendAI" and enable it by checking the box next to its
 5. Start Creating!
 Access BlendAI by pressing N in the 3D Viewport to open the sidebar. You'll find it under "AI Generator"
 
-Current Limitations
+# Current Limitations
 While BlendAI has improved, I'm still working to enhance its capabilities. Current challenges include:
 
 Handling Complex Scripts: Some generated scripts may still need manual tweaking.
 Error Handling: While log files improve debugging, some cases may still require manual intervention.
-Upcoming Features
+
+
+# Upcoming Features
 I'm excited about the future of BlendAI! Here’s what’s coming soon:
 
 Enhanced Accuracy: Further reducing errors and improving output precision.
